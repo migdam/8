@@ -43,3 +43,14 @@ pytest-asyncio>=0.21.0
 # CLI
 click>=8.1.0
 typer>=0.9.0
+
+# Web Scraping
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# File Operations
+aiofiles>=23.2.0
+
+# Additional Tools
+pillow>=10.0.0  # Image processing
+jinja2>=3.1.0  # Templating
